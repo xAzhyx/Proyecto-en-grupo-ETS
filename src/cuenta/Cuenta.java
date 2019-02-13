@@ -10,7 +10,7 @@ public class Cuenta {
     private String titular;
     private double cantidad;
     private double cantidadTotal;
-    private String texto = "Mdoficacion desde rusia";
+    private String texto = "2 modificacion desde mexico :D";
   
     Cuenta(){
         
